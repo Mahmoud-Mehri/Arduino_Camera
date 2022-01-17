@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/05/04 12:01:25.000.242,=C:\Users\Mahmood_M\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/05/05 11:28:56.000.100,=C:\Users\Mahmood_M\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/05/05 16:09:30.000.974,=C:\Users\Mahmood_M\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/07/09 23:45:58.000.869,=C:\Users\Mahmood_M\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/08/08 16:28:03.000.017,=C:\Users\Mahmood_M\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/08/28 15:14:32.000.600,=C:\Users\Mahmood_M\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/09/04 10:34:02.000.805,=C:\Users\Mahmood_M\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/09/09 12:11:46.000.348,=C:\Users\Mahmood_M\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/09/20 16:01:02.000.961,=C:\Users\Mahmood_M\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/09/24 13:49:36.000.145,=C:\Users\Mahmood_M\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/10/01 03:44:23.000.638,=C:\Users\Mahmood_M\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/10/05 10:58:58.000.587,=C:\Users\Mahmood_M\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/10/05 11:17:32.000.818,=C:\Users\Mahmood_M\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/10/05 11:24:17.000.051,=C:\Users\Mahmood_M\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/11/04 14:44:27.000.385,=C:\Users\Mahmood_M\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/11/04 14:45:34.000.413,=C:\Users\Mahmood_M\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/11/04 14:58:51.000.789,=C:\Users\Mahmood_M\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/11/30 12:00:52.000.671,=C:\Users\Mahmood_M\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/12/24 22:10:28.000.095,=C:\Users\Mahmood_M\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/01/22 21:46:49.000.091,=C:\Users\Mahmood_M\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/01/24 02:43:51.000.060,=C:\Users\Mahmood_M\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/05/18 21:31:19.000.127,=C:\Users\Mahmood_M\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/05/22 22:50:35.000.062,=C:\Users\Mahmood_M\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/05/26 18:09:21.000.874,=C:\Users\Mahmood_M\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/05/26 18:09:59.000.078,G:\Projects\Arduino\Server\MainUnit.pas=C:\Users\Mahmood_M\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/05/26 18:09:59.000.078,G:\Projects\Arduino\Server\MainUnit.dfm=C:\Users\Mahmood_M\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018/05/26 18:10:05.000.028,G:\Projects\Arduino\Server\Server.dproj=C:\Users\Mahmood_M\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2018/05/26 18:21:22.000.855,=G:\Projects\Arduino\Server\AsistantUnit.pas</Transaction>
+    <Transaction>2018/05/27 13:38:20.000.573,=G:\Projects\Arduino\Server\LogUnit.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
